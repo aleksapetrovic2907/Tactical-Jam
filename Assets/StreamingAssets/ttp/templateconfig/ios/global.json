@@ -1,0 +1,17 @@
+{
+  "store": "apple",
+  "gameEngine": "unity",
+  "audienceModeBuildOnly": "non-children",
+  "orientation": "portrait",
+  "geoLocationServer": "ttplugins.ttpsdk.info",
+  "bundleId": "com.aezakmiteam.tacticaljam",
+  "testMode": false,
+  "askForTracking": true,
+  "appId": "6463638051",
+  "isAdMob": true,
+  "appBuildConfig": {
+    "admob": {
+      "application": ""
+    }
+  }
+}
